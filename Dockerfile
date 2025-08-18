@@ -1,5 +1,5 @@
 # Base image
-FROM python:3.14.0a3-slim-bookworm
+FROM python:3.14.0rc2-slim-bookworm
 
 LABEL \
     name="MobSF" \
